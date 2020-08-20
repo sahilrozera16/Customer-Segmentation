@@ -15,23 +15,7 @@ In their existing market, the sales team has classified all customers into 4 seg
 
 You are required to help the manager to predict the right group of the new customers.
 
-**Data Description**
+# Accuracy-Scored
 
-Variable                                                       	Definition
-
-ID	                                                            Unique ID
-Gender	                                                        Gender of the customer
-Ever_Married	                                                  Marital status of the customer
-Age	                                                            Age of the customer
-Graduated	                                                      Is the customer a graduate?
-Profession	                                                    Profession of the customer
-Work_Experience	                                                Work Experience in years
-Spending_Score	                                                Spending score of the customer
-Family_Size	                                                    Number of family members for the customer (including the customer)
-Var_1	                                                          Anonymised Category for the customer
-Segmentation	                                                  (target) Customer Segment of the customer
-
-**sample_submission.csv**
-
-ID: Unique ID
-Segmentation: Predicted segment for customers in the test set
+public_score   =  0.9504
+private_score  =  0.9505
