@@ -14,3 +14,10 @@ An automobile company has plans to enter new markets with their existing product
 In their existing market, the sales team has classified all customers into 4 segments (A, B, C, D ). Then, they performed segmented outreach and communication for different segment of customers. This strategy has work exceptionally well for them. They plan to use the same strategy on new markets and have identified 2627 new potential customers. 
 
 You are required to help the manager to predict the right group of the new customers.
+
+
+**sample_submission.csv**
+
+ID: Unique ID
+
+Segmentation: Predicted segment for customers in the test set
