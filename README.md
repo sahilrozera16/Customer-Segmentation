@@ -19,4 +19,5 @@ You are required to help the manager to predict the right group of the new custo
 # Accuracy-Scored
 
 public_score   =  0.9504
+
 private_score  =  0.9505
