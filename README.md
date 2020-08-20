@@ -1,4 +1,4 @@
-![alt text](https://github.com/sahilrozera16/covid-19-dashboard/blob/master/Screenshot%20(1).png)
+![alt text](https://datahack-prod.s3.ap-south-1.amazonaws.com/__sized__/contest_cover/Customer_Segmentation-thumbnail-1200x1200-90.jpg)
 # Janatahack: Customer Segmentation
 
 Customer segmentation is the practice of dividing a customer base into groups of individuals that are similar in specific ways relevant to marketing, such as age, gender, interests and spending habits.
